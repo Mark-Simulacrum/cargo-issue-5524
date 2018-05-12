@@ -1,0 +1,8 @@
+[package]
+name = "foo-main"
+version = "0.1.0"
+authors = ["Mark Simulacrum <mark.simulacrum@gmail.com>"]
+
+[[bin]]
+name = "foo"
+path = "src/main.rs"

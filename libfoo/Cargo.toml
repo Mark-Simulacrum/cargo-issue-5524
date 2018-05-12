@@ -1,0 +1,9 @@
+[package]
+name = "foo"
+version = "0.1.0"
+authors = ["Mark Simulacrum <mark.simulacrum@gmail.com>"]
+
+[lib]
+name = "foo"
+path = "src/lib.rs"
+crate-type = ["dylib"]
